@@ -1,3 +1,5 @@
 {
-  "your": "json config here"
+  "name": "github-actions-exercise-publish-package-jtluoto",
+  "version": "1.0.0",
+  "author": "Juha Luoto <email@example.com>"
 }
