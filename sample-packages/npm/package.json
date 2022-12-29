@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "author": "Juha Luoto <email@example.com>",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "@jtluoto:registry": "https://npm.pkg.github.com/"
   }
 }
