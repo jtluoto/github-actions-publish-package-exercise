@@ -1,5 +1,11 @@
 {
-  "name": "github-actions-exercise-publish-package-jtluoto",
+  "name": "@jtluoto/github-actions-publish-package-exercise",
   "version": "1.0.0",
-  "author": "Juha Luoto <email@example.com>"
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
 }
