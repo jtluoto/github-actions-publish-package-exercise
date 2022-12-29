@@ -1,8 +1,5 @@
 {
   "name": "github-actions-exercise-publish-package-jtluoto",
   "version": "1.0.0",
-  "author": "Juha Luoto <email@example.com>",
-  "publishConfig": {
-    "@jtluoto:registry": "https://npm.pkg.github.com/"
-  }
+  "author": "Juha Luoto <email@example.com>"
 }
