@@ -38,4 +38,4 @@ jobs:
       - run: npm ci
       - run: npm publish
         env:
-          NODE_AUTH_TOKEN: ${{secrets.UPLOAD_PACKAGES_PAT}}
+          NODE_AUTH_TOKEN: ${{secrets.UPLOAD_PACKAGES_CLASSIC}}
